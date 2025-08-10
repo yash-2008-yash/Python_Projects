@@ -1,2 +1,3 @@
-# Python_Projects
-The projects made with my Python knowledge.
+# Python Projects
+
+I believe that only learning Python isn't enough. We have to create and work on projects with our Python knowledge because when we apply what we learnt, on creating things, that is when we become expert in what we are learning. This is my projects which I did with my knowledge. Check out if you are interested...
